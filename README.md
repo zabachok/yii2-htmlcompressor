@@ -1,6 +1,8 @@
 # Compressing HTML before submit to client
 
 HTML compressor.
+This component allows you to compress the HTML-code. If you want it is possible not to compress the contents in `script` and `code` tags.
+[На русском](http://zabachok.net/repositories/htmlcompressor)
 
 ## Installation
 
